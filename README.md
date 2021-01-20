@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SP_Optimization_mini-project
 ![Design Blocks](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2221&q=80)
 Image by: Jan Antonin Kolar
@@ -31,3 +32,6 @@ Once the script above has executed successfully, open each SQL (linked) script a
 
 _____
 
+=======
+# SP_mini-project_sql_tuning
+>>>>>>> 9f034b30028467e102cafe6985118cd11c8e2b8c
