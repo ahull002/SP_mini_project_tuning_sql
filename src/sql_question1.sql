@@ -10,7 +10,7 @@ SET @v6 = 'MGT';
 SET @v7 = 'EE';			  
 SET @v8 = 'MAT';
 
--- 1. List the name of the student with id equal to v1 (id).
+-- 1. List the name of the student with id equal to v1 (id)..
 
 SELECT name
 FROM Student 
